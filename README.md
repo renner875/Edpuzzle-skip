@@ -2,6 +2,6 @@
 This allows you to skip Edpuzzle videos and answer all multiple-choice questions instantly.
 
 
-TO USE THIS, SELECT THE HACK, PRESS ON "RAW" AND COPY THE CODE, THEN PASTE INTO A NEW BOOKMARK
+Go to this page to learn how: https://docs.google.com/document/d/1fj_r06niiCG6rqDxOo9QsdX_rSFw_qpqiKgw1NWGhY0/edit
 
 Made with @ading2210
