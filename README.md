@@ -9,5 +9,3 @@ Go to this page to learn how: https://docs.google.com/document/d/1Fm8WTh_qbF-5xT
 Or watch a video here: https://www.youtube.com/watch?v=cEDnRk99pz8&t=2s
 
 Please leave a star too!
-
-Made by @ading2210
