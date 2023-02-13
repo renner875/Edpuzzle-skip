@@ -10,4 +10,4 @@ Or watch a video here: https://www.youtube.com/watch?v=cEDnRk99pz8&t=2s
 
 Please leave a star too!
 
-Made with @ading2210
+Made by @ading2210
