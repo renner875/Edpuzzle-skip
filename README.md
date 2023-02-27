@@ -1,4 +1,4 @@
-# Edpuzzle-skip made by @ading2210
+# Edpuzzle-skip   by @ading2210
 This allows you to skip Edpuzzle videos and answer all multiple-choice questions instantly.
 
 
